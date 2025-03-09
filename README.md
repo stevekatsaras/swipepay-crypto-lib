@@ -1,2 +1,2 @@
-crypto-service-lib
--------------
+swipepay-crypto-lib
+-------------------
